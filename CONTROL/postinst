@@ -1,0 +1,11 @@
+#!/bin/sh
+echo "***********************************"
+echo "*          SafePowerOff           *"
+echo "*               by                *"
+echo "*          dream-alpha            *"
+echo "***********************************"
+echo ""
+echo "SafePowerOff plugin installed successfully."
+echo "Please restart DreamOS now!"
+echo ""
+exit 0

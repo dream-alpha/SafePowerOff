@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SafePowerOff v0.1.2\n"
+"POT-Creation-Date: 2022-06-14 11:50+0200\n"
+"PO-Revision-Date: 2022-06-14 12:05+0200\n"
+"Last-Translator: Dario Croci <spaeleus@croci.org>\n"
+"Language-Team: Dario Croci <spaeleus@croci.org>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Recording(s) are in progress or coming up in few seconds!"
+msgstr "Registrazioni in corso o in avvio a breve."
+
+msgid "%d jobs are running in the background!"
+msgstr "%d processi attivi in background."
+
+msgid "Really reboot into Recovery Mode?\n"
+msgstr "Riavviare in modalità di ripristino?\n"
+
+msgid "Entering idle mode to complete recording(s)/job(s) before powering off."
+msgstr ""
+"Passaggio in modalità idle per completare registrazioni/processi prima di "
+"spegnere."
+
+msgid "Really shutdown now?"
+msgstr "Spegnere ora?"
+
+msgid "Really reboot now?"
+msgstr "Riavviare ora?"
+
+msgid ""
+"You won't be able to leave Recovery Mode without physical access to the "
+"device!"
+msgstr ""
+"Non sarà possibile uscire dalla modalità di ripristino senza avere accesso "
+"fisico all'apparato."
+
+msgid "Really restart now?"
+msgstr "Riavviare ora?"

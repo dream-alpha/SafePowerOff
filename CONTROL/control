@@ -1,0 +1,5 @@
+Description: SafePowerOff
+Maintainer: dream-alpha
+Package: enigma2-plugin-systemplugins-safepoweroff
+Version: 0.3.0
+Architecture: all
